@@ -1,0 +1,118 @@
+D:\code\do_an1\do_an1\bin\Debug\do_an1.exe.config
+D:\code\do_an1\do_an1\bin\Debug\do_an1.exe
+D:\code\do_an1\do_an1\bin\Debug\do_an1.pdb
+D:\code\do_an1\do_an1\obj\Debug\do_an1.csproj.AssemblyReference.cache
+D:\code\do_an1\do_an1\obj\Debug\do_an1.Form1.resources
+D:\code\do_an1\do_an1\obj\Debug\do_an1.Properties.Resources.resources
+D:\code\do_an1\do_an1\obj\Debug\do_an1.csproj.GenerateResource.cache
+D:\code\do_an1\do_an1\obj\Debug\do_an1.csproj.CoreCompileInputs.cache
+D:\code\do_an1\do_an1\obj\Debug\do_an1.exe
+D:\code\do_an1\do_an1\obj\Debug\do_an1.pdb
+D:\code\do_an1\do_an1\bin\Debug\Guna.UI2.dll
+D:\code\do_an1\do_an1\obj\Debug\do_an1.csproj.CopyComplete
+D:\code\do_an1\do_an1\bin\Debug\EPPlus.dll
+D:\code\do_an1\do_an1\bin\Debug\EPPlus.Interfaces.dll
+D:\code\do_an1\do_an1\bin\Debug\EPPlus.System.Drawing.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Buffers.dll
+D:\code\do_an1\do_an1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Memory.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Numerics.Vectors.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Encodings.Web.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Json.dll
+D:\code\do_an1\do_an1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code\do_an1\do_an1\bin\Debug\System.ValueTuple.dll
+D:\code\do_an1\do_an1\bin\Debug\EPPlus.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\code\do_an1\do_an1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Buffers.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Memory.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Numerics.Vectors.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Encodings.Web.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Text.Json.xml
+D:\code\do_an1\do_an1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code\do_an1\do_an1\bin\Debug\System.ValueTuple.xml
+D:\Do an\do_an1\do_an1\bin\Debug\do_an1.exe.config
+D:\Do an\do_an1\do_an1\bin\Debug\do_an1.exe
+D:\Do an\do_an1\do_an1\bin\Debug\do_an1.pdb
+D:\Do an\do_an1\do_an1\bin\Debug\EPPlus.dll
+D:\Do an\do_an1\do_an1\bin\Debug\EPPlus.Interfaces.dll
+D:\Do an\do_an1\do_an1\bin\Debug\EPPlus.System.Drawing.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Guna.UI2.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Buffers.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Memory.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Numerics.Vectors.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Json.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Do an\do_an1\do_an1\bin\Debug\System.ValueTuple.dll
+D:\Do an\do_an1\do_an1\bin\Debug\EPPlus.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Do an\do_an1\do_an1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Buffers.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Memory.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Numerics.Vectors.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Text.Json.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Do an\do_an1\do_an1\bin\Debug\System.ValueTuple.xml
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.csproj.AssemblyReference.cache
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.Form1.resources
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.Properties.Resources.resources
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.csproj.GenerateResource.cache
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.csproj.CoreCompileInputs.cache
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.csproj.CopyComplete
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.exe
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.pdb
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.Form2.resources
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.UserControl1.resources
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.UserControl2.resources
+D:\Do an\do_an1\do_an1\obj\Debug\do_an1.UserControl3.resources
